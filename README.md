@@ -1,4 +1,4 @@
-# 03-homework
+# Password Generator
 Password Generator
 
 ![Screenshot](/assets/password-gen-screenshot.png)
